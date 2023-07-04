@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024720721591",
+    "project_id": "forgriet-aa591",
+    "storage_bucket": "forgriet-aa591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024720721591:android:cb2145d6f880e5d810df32",
+        "android_client_info": {
+          "package_name": "com.example.forgriet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024720721591-4a8v2jonpsmke6qf140uqo030k0arm2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-5ehEAEX_eieeoiysUDt7i4xZRs540c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024720721591-4a8v2jonpsmke6qf140uqo030k0arm2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
